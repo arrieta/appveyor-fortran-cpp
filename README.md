@@ -1,0 +1,1 @@
+This repo contains a barebones project mixing Fortran and C++. I created it to test AppVeyor's build system.
